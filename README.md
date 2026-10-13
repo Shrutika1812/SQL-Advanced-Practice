@@ -1,7 +1,5 @@
 # SQL Advanced Practice
 
-A collection of SQL practice queries covering advanced SQL concepts and commonly asked interview problems.
-
 ## Topics Covered
 
 - Joins
